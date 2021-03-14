@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "321470806559",
+    "firebase_url": "https://cannabus-36fc8.firebaseio.com",
+    "project_id": "cannabus-36fc8",
+    "storage_bucket": "cannabus-36fc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321470806559:android:4ada792b61db2366d4b32a",
+        "android_client_info": {
+          "package_name": "com.cannabus.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321470806559-leq3oirgih2169mpauclp3njoolc67fk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiTCflpz0-ci7IetCor5o_dXashe_nKoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321470806559-leq3oirgih2169mpauclp3njoolc67fk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321470806559:android:5185905f7df1ea65d4b32a",
+        "android_client_info": {
+          "package_name": "com.cannabus.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321470806559-leq3oirgih2169mpauclp3njoolc67fk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiTCflpz0-ci7IetCor5o_dXashe_nKoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321470806559-leq3oirgih2169mpauclp3njoolc67fk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
